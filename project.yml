@@ -21,3 +21,11 @@ targets:
         CODE_SIGN_STYLE: Manual
         DEVELOPMENT_TEAM: ""
         ENABLE_HARDENED_RUNTIME: NO
+    productName: SwiftUIClassStructEnumDifferencesDemo
+schemes:
+  SwiftUIClassStructEnumDifferencesDemo:
+    build:
+      targets:
+        SwiftUIClassStructEnumDifferencesDemo: all
+    run:
+      config: Debug
